@@ -1,0 +1,8 @@
+# Instalar React
+npm install -g crete-react-app
+
+# Criar Novo Projeto
+crete-react-app MeuNovoProjeto
+
+# Adicionar Router
+yarn add react-router-dom
